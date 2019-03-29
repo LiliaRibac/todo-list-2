@@ -8,6 +8,7 @@ h1 {
     padding-bottom: 10px;
 }
 
+
 #header{
     padding: 30px;
     margin-top: 3%;
@@ -17,24 +18,9 @@ h1 {
     margin-bottom: 30px;
     text-align: center;
 }
-
-#dellet-btn{
-    adding: 30px;
-    margin-top: 3%;
-    margin-left: 20%;
-    margin-right: 20%;
-   
-    margin-bottom: 30px;
-    text-align: end;
+#addItemInput{
+    height: 38px;
 }
-
-#entries {
-    background-color: #accebf;
-    text-align: center;
-    padding: 30px;
-    margin: 0 30%;
-    line-height: 2;
-  }
 
 #header input {
     width: 50%;
@@ -43,18 +29,9 @@ h1 {
 #todoList {
     margin-left: 10%;
     margin-right: 10%;
-    text-align: left;
+    text-align: center;
     font-size: 30px;
 
-}
-
-
-#listItem {
-    width: 40px;
-    height: 50px;
-    justify-content: center;
-    align-items: center;
-    padding-left: 15px;
 }
 
 #submit {
@@ -70,7 +47,3 @@ h1 {
 
 }
 
-.entry {
-    border-bottom: solid 1px lightslategray;
-
-}
